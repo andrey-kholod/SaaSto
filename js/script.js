@@ -41,7 +41,7 @@ window.addEventListener('DOMContentLoaded', () => {
   let i = 1
   setInterval(() => {
     slides[i].classList.add('testimonials__slide--active')
-    client.style.background = `url("../images/clients/${i + 1}.png") no-repeat center/cover, var(--color-accent-light)`
+    client.style.background = `url("../images/client-${i + 1}.png") no-repeat center/cover, var(--color-accent-light)`
 
     slides.forEach((e, idx) => i !== idx && e.classList.remove('testimonials__slide--active'))
 
