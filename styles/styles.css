@@ -342,7 +342,7 @@ h2,
 .section__hero {
   padding-top: 220px;
   padding-bottom: 390px;
-  background-image: url("../../images/bg.png");
+  background-image: url("../images/bg.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -354,7 +354,7 @@ h2,
     position: absolute;
     width: 33px;
     height: 76px;
-    background: url(../../icons/curved-line.svg) center/cover no-repeat;
+    background: url(../icons/curved-line.svg) center/cover no-repeat;
     top: 105px;
     right: 0px;
   }
@@ -762,7 +762,7 @@ h2,
     position: absolute;
     width: 65px;
     height: 76px;
-    background: url(../../icons/clock.svg) center/cover no-repeat;
+    background: url(../icons/clock.svg) center/cover no-repeat;
     top: -45px;
     right: 0px;
     z-index: -1;
@@ -821,7 +821,7 @@ h2,
     position: absolute;
     width: 63px;
     height: 75px;
-    background: url(../../icons/curved-line-arrow.svg) center/cover no-repeat;
+    background: url(../icons/curved-line-arrow.svg) center/cover no-repeat;
     top: 30px;
     right: -70px;
   }
@@ -831,7 +831,7 @@ h2,
     position: absolute;
     width: 46px;
     height: 68px;
-    background: url(../../icons/spark.svg) center/cover no-repeat;
+    background: url(../icons/spark.svg) center/cover no-repeat;
     top: 80px;
     left: -20px;
   }
@@ -1844,7 +1844,7 @@ h2,
   position: absolute;
   width: 223px;
   height: 296px;
-  background-image: url("../../images/hourglass.svg");
+  background-image: url("../images/hourglass.svg");
   top: -82px;
   right: -142px;
   z-index: -1;
@@ -2320,7 +2320,7 @@ h2,
   position: absolute;
   width: 223px;
   height: 296px;
-  background-image: url("../../images/hourglass.svg");
+  background-image: url("../images/hourglass.svg");
   top: -82px;
   right: -142px;
   z-index: -1;
@@ -2461,7 +2461,7 @@ h2,
   min-width: 298px;
   height: 380px;
   border-radius: 370px;
-  background: url("../../images/clients/1.png") no-repeat center/cover, var(--color-accent-light);
+  background: url("../images/clients/1.png") no-repeat center/cover, var(--color-accent-light);
   background-position: 50% 10px;
 }
 @media (max-width: 1023px) {

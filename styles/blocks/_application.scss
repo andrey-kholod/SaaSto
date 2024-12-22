@@ -4,16 +4,6 @@
   column-gap: 114px;
   position: relative;
 
-  // &::after {
-  //   content: '';
-  //   position: absolute;
-  //   width: 470px;
-  //   height: 218px;
-  //   top: 190px;
-  //   right: -550px;
-  //   background-image: url('../../images/hand-2.svg');
-  // }
-
   @include mobile {
     align-items: start;
   }
